@@ -1,0 +1,55 @@
+User data segment [10000000]..[10040000]
+[10000000]..[10010004]  00000000[10010004]    636c6557  20656d6f  74206f74
+[10010010]    47206568  61626f6c  6f46206c  72646e75  h e G l o b a l F o u n d r 
+[10010020]    20736569  6e69614d  6d617266  200a3a65  i e s M a i n f r a m e : 
+[10010030]    00000000  61656c50  65206573  7265746e      P l e a s e e n t e r 
+[10010040]    6f6f7220  61702074  6f777373  203a6472   r o o t p a s s w o r d : 
+[10010050]    00000000  65722049  203a6461  00000000      I r e a d :     
+[10010060]    656e6f68  746f7079  73617020  726f7773  h o n e y p o t p a s s w o r 
+[10010070]    65732064  74657263  64736120  75672066  d s e c r e t a s d f g u 
+[10010080]    20737365  206f6f66  746f6f72  00000000  e s s f o o r o o t     
+[10010090]    65737874  69746a67  00000000  70726574  t x s e g j t i     t e r p 
+[100100a0]    6f636973  61206572  73617473  7977206a  s i c o r e a s t a s j w y 
+[100100b0]    6a716170  6f726620  70626f64  33336c20  p a q j f r o d o b p l 3 3 
+[100100c0]    75347374  00003363  20797274  69616761  t s 4 u c 3   t r y a g a i 
+[100100d0]    00000a6e  636c6577  21656d6f  0000000a  n   w e l c o m e !    
+[100100e0]..[10040000]  00000000
+
+
+
+
+
+h e G l o b a l F o u n d r
+i e s M a i n f r a m e : 
+P l e a s e e n t e r 
+r o o t p a s s w o r d : 
+ I r e a d :
+
+h o n e y p o t p a s s w o r
+d s e c r e t a s d f g u 
+e s s f o o r o o t 
+t x s e g j t i     t e r p 
+s i c o r e a s t a s j w y
+p a q j f r o d o b p l 3 3
+t s 4 u c 3   
+
+t r y a g a i 
+ n   w e l c o m e ! 
+
+h o n e y p o t p a s s w o r
+d s e c r e t a s d f g u 
+e s s f o o r o o t 
+t x s e g j t i     t e r p 
+s i c o r e a s t a s j w y
+p a q j f r o d o b p l 3 3
+t s 4 u c 3  
+
+g n m d x o n s o z r r v p q
+c r d b q d s z r c e f t
+d r r e n n q n n s
+s w r d f i s h     s d q o
+r h b n q d z r s b r i v x
+o z p i e q n c n a o k 2 2
+s r 3 t b 2
+
+     
